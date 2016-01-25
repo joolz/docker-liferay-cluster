@@ -1,0 +1,6 @@
+# ignore all zip files, may be EE
+**/*.zip
+
+# licence files
+**/license*
+
