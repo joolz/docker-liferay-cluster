@@ -10,7 +10,7 @@
 
 BASEDIR=~/bin/docker-setups
 DOWNLOADDIR=~/Downloads/liferay-6.2
-DATADIR=~/Desktop/docker-data
+DATADIR=~/docker-data
 
 mkdir -p $DATADIR
 mkdir -p $DATADIR/container-data

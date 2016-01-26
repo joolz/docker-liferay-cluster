@@ -2,7 +2,7 @@
 
 # Utility script to shell into the mysql client
 
-DATADIR=~/Desktop/docker-data/docker-shared/mysql
+DATADIR=~/docker-data/docker-shared/mysql
 
 docker rm -f `docker ps -a -q` 
 

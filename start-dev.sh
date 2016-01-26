@@ -6,7 +6,7 @@ LIFERAY_IMAGE=liferay-ee-sp14-dev-hotfix-14954-6210
 
 LIFERAY_DATA_DIR=/opt/liferay-portal-6.2-ee-sp14/data # in container
 
-DOCKER_BASE=~/Desktop/docker-data
+DOCKER_BASE=~/docker-data
 SHARED_BASE=$DOCKER_BASE/docker-shared
 SHARED_STUFF_DIR=$SHARED_BASE/shared-stuff # for convenience
 DOCUMENT_LIBRARY_DIR=$SHARED_BASE/liferay-dl

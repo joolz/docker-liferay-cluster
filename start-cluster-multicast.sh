@@ -10,7 +10,7 @@ CLUSTER_IMAGE=liferay-ee-sp8-gso-cluster-hotfix-15112-6210
 LIFERAY_DATA_DIR=/opt/liferay-portal-6.2-ee-sp8/data # in container
 # LIFERAY_DATA_DIR=/opt/liferay-portal-6.2-ee-sp14/data # in container
 
-DOCKER_BASE=~/Desktop/docker-data
+DOCKER_BASE=~/docker-data
 SHARED_BASE=$DOCKER_BASE/docker-shared
 SHARED_STUFF_DIR=$SHARED_BASE/shared-stuff # for convenience
 DOCUMENT_LIBRARY_DIR=$SHARED_BASE/liferay-dl
